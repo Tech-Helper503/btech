@@ -5,7 +5,7 @@
       "firebase.json",
       "**/.*",
       "**/*.env",
-      "*.private"
+      "*.private",
       "**/node_modules/**"
     ]
   }
